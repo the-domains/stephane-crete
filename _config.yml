@@ -1,0 +1,14 @@
+layout_spectrum: 1
+color:
+  saturation: 0.5215054
+  brandStrength: 0.03046595
+  lightness: 0.6021506
+  brandColors:
+    - '#0D101E'
+    - '#8F7689'
+    - '#FFD0FA'
+    - '#2F3A81'
+    - '#A93244'
+  rhythmicContrast: 0.3978495
+typography_spectrum: 0.2903226
+name: Stephane Crete
