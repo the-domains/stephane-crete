@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Stephane Crete]]></title>
+        <description><![CDATA[Stephane Crete]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 04 Jan 2016 18:28:17 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Stéphane Crête]]></title>
+            <description><![CDATA[<article><h1>Stéphane Crête</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3f86276ff7083cce167f123e012b5b14f940b0c5.jpg"></article>]]></description>
+            <link>undefinedstephane-crete/index.html</link>
+            <guid isPermaLink="false">71223eea-5726-46e2-bf34-2ced220b8a75</guid>
+            <pubDate>Mon, 04 Jan 2016 18:28:16 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
