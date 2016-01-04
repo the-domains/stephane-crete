@@ -2,14 +2,20 @@
     <channel>
         <title><![CDATA[Stephane Crete]]></title>
         <description><![CDATA[Stephane Crete]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/stephane-crete/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 04 Jan 2016 18:28:17 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 04 Jan 2016 18:28:34 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/stephane-crete/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <link>https://www.facebook.com/machighroom338/?fref=nf</link>
+            <guid isPermaLink="false">c66cd289-b045-4071-ba3b-05ac36487c04</guid>
+            <pubDate>Mon, 04 Jan 2016 18:28:33 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Stéphane Crête]]></title>
-            <description><![CDATA[<article><h1>Stéphane Crête</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3f86276ff7083cce167f123e012b5b14f940b0c5.jpg"></article>]]></description>
-            <link>undefinedstephane-crete/index.html</link>
+            <description><![CDATA[<article><h1>Stéphane Crête</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/61e236348db7fcc4b688b7670ec8c2e1f92b3e2c.jpg"></article>]]></description>
+            <link>https://thegrid.ai/stephane-crete/stephane-crete/index.html</link>
             <guid isPermaLink="false">71223eea-5726-46e2-bf34-2ced220b8a75</guid>
             <pubDate>Mon, 04 Jan 2016 18:28:16 GMT</pubDate>
         </item>
